@@ -22,7 +22,7 @@ async def ForceSub(bot: Client, event: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=event.from_user.id,
-                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/DevsZone).",
+                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/ironman_cloud_support).",
                 parse_mode="markdown",
                 disable_web_page_preview=True,
                 reply_to_message_id=event.message_id
@@ -39,7 +39,7 @@ async def ForceSub(bot: Client, event: Message):
             return fix_
         except Exception as err:
             print(
-                f"Unable to do Force Subscribe to {Config.UPDATES_CHANNEL}\n\nError: {err}\n\nContact Support Group: https://t.me/DevsZone")
+                f"Unable to do Force Subscribe to {Config.UPDATES_CHANNEL}\n\nError: {err}\n\nContact Support Group: https://t.me/ironman_cloud_support")
             return 200
         await bot.send_message(
             chat_id=event.from_user.id,
