@@ -25,21 +25,21 @@ Forward me DMCA Notice Message which has Links of your Telegram Channel Messages
     HELP_TEXT = """
 **How to Use Me?**
 
-> Add me & @DMCA_Cleaner to Channel as Admin with Delete Messages & Invite Users Permissions.
+> Add me & @The_Lulzsec to Channel as Admin with Delete Messages & Invite Users Permissions.
 > Make sure you are Admin in Channel & have Delete Messages Right.
 > Forward me Any Message from the Chat.
 > I will automatically delete DMCA Messages.
 
 **Tip:** Also you can send a list which has links of messages.
 
-**Note:** __In some case, if your channel is or was private before adding me than I can't delete those broadcasted messages. If need any help ask in [Support Group](https://t.me/DevsZone)!__
+**Note:** __In some case, if your channel is or was private before adding me than I can't delete those broadcasted messages. If need any help ask in [Support Group](https://t.me/ironman_cloud_support)!__
 """
     ABOUT_TEXT = """
 This is Telegram DMCA Messages Delete Bot.
 
 Forward me DMCA Notice Message which has Links of your Telegram Channel Messages, I will try to delete those Files from your Channel.
 
-🤖 **My Name:** [DMCA Delete Bot](https://t.me/DMCA_DelBot)
+🤖 **My Name:** [DMCA Delete Bot](https://t.me/imc_dmcabot)
 
 📝 **Language:** [Python3](https://www.python.org)
 
@@ -47,11 +47,11 @@ Forward me DMCA Notice Message which has Links of your Telegram Channel Messages
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** Hoga koi muje kya 🙂😎
 
-💸 **Donate:** [PayPal](https://www.paypal.me/AbirHasan2005)
+💸 **Donate:** [PayPal]()
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+👥 **Support Group:** [IRONMAN CLOUD ☁️](https://t.me/ironman_cloud_support)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **Updates Channel:** [Bot update](https://t.me/ironman_cloud)
 """
