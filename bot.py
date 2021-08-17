@@ -185,7 +185,7 @@ async def callback_handlers(_, event: CallbackQuery):
                         InlineKeyboardButton("Bots Channel", url="https://t.me/ironman_cloud")
                     ],
                     [
-                        InlineKeyboardButton("Developer", url="https://t.me/")
+                        InlineKeyboardButton("Developer", url="https://github.com/AbirHasan2005")
                     ]
                 ]
             )
